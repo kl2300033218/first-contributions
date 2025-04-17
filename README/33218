@@ -1,0 +1,8 @@
+# Project Name
+
+## Installation
+
+To set up this project on your local machine, run the following command:
+
+```bash
+pip install -r requirements.txt
